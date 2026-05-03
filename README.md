@@ -8,7 +8,7 @@ A lightweight bash script that intelligently toggles GNOME Terminal. Open your t
 - **Force Launch**: Use the `true` parameter to always open a new terminal instance
 - **Lightweight**: Simple, efficient bash script with minimal dependencies
 - **Easy Setup**: Just a few commands to get started
-
+- **Automatic Terminal Detection**: Automatically finds and uses your installed terminal (Gnome, Kitty, Konsole, etc.), making it compatible with any Linux distro.
 ## Current Implementation
 
 Currently uses **gnome-terminal** for terminal launching.
@@ -92,9 +92,7 @@ Then simply press your hotkey to toggle your terminal on and off!
 
 ## Future Enhancements
 
-- [ ] Automatic terminal emulator detection
-- [ ] Multi-language support (including English language UI option)
-- [ ] Support for multiple terminal profiles
+- [ ] Auto-switch keyboard layout to English on terminal focus
 - [ ] Configuration file for custom settings
 
 ## Screenshots
