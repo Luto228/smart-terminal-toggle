@@ -94,8 +94,8 @@ Then simply press your hotkey to toggle your terminal on and off!
 
 ![Step One: Run two commands](Images/chmod_sudo.png)
 ![Step Two: Go to settings](Images/settings.png)
-![Step Three: Add custom shortcuts](Images/custom_shortcuts.png)
-![Step Four: Last button](Images/last_button.png)
+![Step Three: Last button](Images/last_button.png)
+![Step Four: Add custom shortcuts](Images/custom_shortcuts.png)
 ![Step Five: Recognise file path](Images/files_zone.png)
 ![Step Six: Add "smart terminal"](Images/false.png)
 ![Stet Seven: Add "forced terminal"](Images/true.png)
