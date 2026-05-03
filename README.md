@@ -90,11 +90,6 @@ Super + T (or your chosen key)
 
 Then simply press your hotkey to toggle your terminal on and off!
 
-## Future Enhancements
-
-- [ ] Auto-switch keyboard layout to English on terminal focus
-- [ ] Configuration file for custom settings
-
 ## Screenshots
 
 ![Step One: Run two commands](Images/chmod_sudo.png)
